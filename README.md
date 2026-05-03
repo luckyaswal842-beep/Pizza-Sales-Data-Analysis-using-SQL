@@ -66,11 +66,6 @@ Dataset contains order details, pizza types, sizes, and pricing.
 
 ---
 
-## 📎 Project Files
-
-* SQL Queries: `sql_queries/analysis.sql`
-* Dataset: `dataset/`
-* Report: `project_report/`
 
 ---
 
@@ -80,5 +75,15 @@ Dataset contains order details, pizza types, sizes, and pricing.
 📧 [luckyaswal842@gmail.com](mailto:luckyaswal842@gmail.com)
 
 ---
+# 📊 Key Insights from Pizza Sales Analysis
 
-⭐ If you like this project, give it a star!
+1. Evening time shows highest sales → peak business hours
+2. Top 3 pizza types generate majority revenue
+3. Medium & Large sizes are most popular
+4. Some categories have low contribution → improvement needed
+5. Revenue follows a cumulative growth trend over time
+
+## 📌 Conclusion
+
+The business can increase profits by focusing on high-performing pizzas and optimizing low-performing categories.
+
